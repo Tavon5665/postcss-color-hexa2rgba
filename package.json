@@ -2,13 +2,19 @@
   "name": "postcss-color-hexa2rgba",
   "version": "1.0.0",
   "description": "A PostCSS plugin that converts colors from Hexadecimal Alpha format to RGBA format",
+  "keywords": [
+    "PostCSS",
+    "color",
+    "hexa",
+    "rgba",
+    "chai"
+  ],
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "mocha test"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "dorothyrose55<dorothyrose55@foxmail.com>",
   "devDependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5",
